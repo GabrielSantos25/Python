@@ -1,2 +1,2 @@
-msg = "Hellow word"
+mensagem = "Hellow word"
 print(msg)
