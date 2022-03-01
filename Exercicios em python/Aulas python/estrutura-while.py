@@ -3,11 +3,19 @@
 print('FIM')'''
 # pode usar while ou for quando sabemos o limite da repetição
 
+#crescente
 c = 1
 while c < 10:
     print(c)
     c += 1
 print('FIM')
+
+# while decrescente
+n = int(input('Digite um número para\nCalcular seu fatorial: '))
+c = n
+while c > 0:
+    print(c)
+    c -= 1
 
 # Somente o while quando não sabemos o limite da repetição
 n = 1
