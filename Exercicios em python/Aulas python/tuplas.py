@@ -1,7 +1,6 @@
 lanche = ('Hambúrguer', 'Suco', 'Pizza', 'Pudim')
 #tuplas são imutáveis
-print(lanche[-3:])
-
+print(lanche[-2:])
 
 
 lanche = ('Hambúrguer', 'Suco', 'Pizza', 'Pudim')
