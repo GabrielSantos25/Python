@@ -1,2 +1,2 @@
-mensagem = "Hellow word"
-print(msg)
+mensagem = "Hellow Word"
+print(mensagem)
