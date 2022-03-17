@@ -31,3 +31,4 @@ print(f'[{max(medias):.1f}]',end='')
 print()
 print('-='*30)
 print('---Fim---')
+
