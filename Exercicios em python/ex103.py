@@ -15,7 +15,6 @@ for c in range(3):
     else:
         resultado = ('Reprovado')
 
-
     dados.append([nome, nota1, nota2, m, resultado])
     
 for x in range(len(dados)):
