@@ -1,0 +1,24 @@
+--- 1ª Indivíduo ---
+Nome: João Gabriel Santos Barros
+Ano de nascimento: 2003
+Idade: 19
+Resultado: Maior de Idade
+
+--- 2ª Indivíduo ---
+Nome: Mariana Santos Barros
+Ano de nascimento: 2002
+Idade: 20
+Resultado: Maior de Idade
+
+--- 3ª Indivíduo ---
+Nome: Shirlley De Jesus Santos Barros
+Ano de nascimento: 1973
+Idade: 49
+Resultado: Maior de Idade
+
+--- 4ª Indivíduo ---
+Nome: José Ferreira Barros Filho
+Ano de nascimento: 1975
+Idade: 47
+Resultado: Maior de Idade
+
